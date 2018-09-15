@@ -1,0 +1,1 @@
+$(document).ready(function(){$("#search").hide(),$("#open_search").click(function(){$("#search").toggle(600)})});
